@@ -16,3 +16,6 @@ Simple Calculator app built with WPF using MVVM arthitecture
 - Windows Presentation Foundation (WPF)
 - XAML for UI design
 
+## Screenshots
+![main](https://github.com/prvu7/Calculator-with-WPF/blob/main/screenshot1.png)
+
